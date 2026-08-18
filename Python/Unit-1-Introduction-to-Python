@@ -1,0 +1,37 @@
+# Unit 1: Introduction to Python, Strings and Numbers
+
+## Overview
+
+Welcome to Unit 1!
+
+This unit introduces the foundations of Python programming and shows how Python can be used to solve real-world problems in different industries.
+
+In this unit, I will learn how to set up a Python development environment, write and run basic Python programs, and understand how Python stores and represents different types of information.
+
+I will also learn about variables and basic data types such as strings, integers, floats, and booleans. These concepts form an important foundation for the programming skills I will develop throughout the rest of the course.
+
+## Learning Objectives
+
+By the end of this unit, I should be able to:
+
+- Explain what Python is and identify three real-world applications of Python.
+- Set up a working Python development environment.
+- Write and run a basic Python program using `print()` and `input()`.
+- Declare variables using the appropriate data types: `str`, `int`, `float`, and `bool`.
+- Use `type()` to identify the data type of a value.
+
+## What I Will Practise
+
+During this unit, I will practise:
+
+- Writing my first Python programs.
+- Using `print()` to display information.
+- Using `input()` to receive information from a user.
+- Creating and assigning variables.
+- Working with strings and numbers.
+- Identifying different Python data types.
+- Using `type()` to check data types.
+
+## Next Steps
+
+After completing this unit, I will move on to the video lesson, review the lesson notes, and complete the practical task and quiz to test my understanding.
